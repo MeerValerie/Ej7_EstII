@@ -1,2 +1,2 @@
-# Ej7_EstII
+# Práctica Estadística II
 Data base.
